@@ -1,7 +1,7 @@
 
 ## Solutions
-##Exercise_1
 ```bash
+##Exercise_1
 cd
 pwd
 ls -la
